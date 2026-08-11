@@ -1,0 +1,1039 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-13T19:09:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1234858215",
+        "amenity": "fuel",
+        "ele": "47.47",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0478733,
+          22.4836313
+        ]
+      },
+      "id": "node/1234858215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236530101",
+        "amenity": "fuel",
+        "ele": "44.83",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1430738,
+          22.3927409
+        ]
+      },
+      "id": "node/1236530101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236531440",
+        "amenity": "fuel",
+        "ele": "39.78",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1479157,
+          22.3860446
+        ]
+      },
+      "id": "node/1236531440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236533395",
+        "amenity": "fuel",
+        "cmt": "28-JAN-10 12:23:41",
+        "description": "28-JAN-10 12:23:41",
+        "ele": "35.454102",
+        "name": "Fuel",
+        "source": "GPS",
+        "sym": "Gas Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1923745,
+          22.2032701
+        ]
+      },
+      "id": "node/1236533395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2297199989",
+        "addr:street": "Vasna Road",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "brand:wikipedia": "en:Hindustan Petroleum",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1525701,
+          22.2949821
+        ]
+      },
+      "id": "node/2297199989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3647017027",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2039355,
+          22.3206224
+        ]
+      },
+      "id": "node/3647017027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4312565715",
+        "amenity": "fuel",
+        "name": "C N G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1920393,
+          22.2033923
+        ]
+      },
+      "id": "node/4312565715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4323406798",
+        "addr:city": "Vadodara",
+        "addr:street": "Sama, Main Road, Vemali",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1987893,
+          22.3565808
+        ]
+      },
+      "id": "node/4323406798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4326514789",
+        "addr:street": "New VIP Ring Road",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2226144,
+          22.2807547
+        ]
+      },
+      "id": "node/4326514789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4330586090",
+        "amenity": "fuel",
+        "name": "C N G"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1916192,
+          22.2031026
+        ]
+      },
+      "id": "node/4330586090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4435502490",
+        "amenity": "fuel",
+        "name": "CNG Petrol pump",
+        "name:en": "CNG Petrol pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2024833,
+          22.3450417
+        ]
+      },
+      "id": "node/4435502490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789797644",
+        "amenity": "fuel",
+        "name": "Reliance petrol pump",
+        "name:en": "Reliance petrol pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1148375,
+          22.4677223
+        ]
+      },
+      "id": "node/4789797644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4945168222",
+        "addr:street": "Race Course Road",
+        "amenity": "fuel",
+        "name": "Cng Vadodara",
+        "name:en": "Cng Vadodara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1648741,
+          22.3152894
+        ]
+      },
+      "id": "node/4945168222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4945175021",
+        "addr:street": "Race Course Road",
+        "amenity": "fuel",
+        "name": "Cng adani",
+        "name:en": "Cng adani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.164572,
+          22.3153114
+        ]
+      },
+      "id": "node/4945175021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5725206321",
+        "addr:street": "Vadodara Bypass",
+        "amenity": "fuel",
+        "name": "CNG pump Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1883648,
+          22.2343063
+        ]
+      },
+      "id": "node/5725206321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5749135021",
+        "amenity": "fuel",
+        "name": "Gail Gas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1446714,
+          22.3864139
+        ]
+      },
+      "id": "node/5749135021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6842759386",
+        "addr:street": "Sama-Savli Rd",
+        "amenity": "fuel",
+        "name": "CNG pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1916628,
+          22.3796541
+        ]
+      },
+      "id": "node/6842759386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104052880",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Karelibagh",
+        "addr:street": "Karelibaug Main Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1975823,
+          22.3239565
+        ]
+      },
+      "id": "node/7104052880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104053835",
+        "addr:city": "Vadodara",
+        "addr:street": "P.O. Jawahar Nagar",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.134883,
+          22.3561238
+        ]
+      },
+      "id": "node/7104053835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104071807",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Subhanpura",
+        "addr:street": "High Tension Rd,",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1549782,
+          22.3213939
+        ]
+      },
+      "id": "node/7104071807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104080218",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Satyanarayan Society 1, Gorwa",
+        "addr:street": "Gujarat Refinery Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1533097,
+          22.335759
+        ]
+      },
+      "id": "node/7104080218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104081356",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Pushpak Twp, Undera",
+        "addr:street": "Gorwa-Undera Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1418889,
+          22.3447274
+        ]
+      },
+      "id": "node/7104081356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104106698",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Fatehgunj",
+        "addr:street": "Fatehganj Main Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1885379,
+          22.3239466
+        ]
+      },
+      "id": "node/7104106698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104117696",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Tapovan Society",
+        "addr:street": "Nizampura Main Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.180105,
+          22.3344565
+        ]
+      },
+      "id": "node/7104117696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104123186",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Nizampura",
+        "addr:street": "New Chhani Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1825726,
+          22.3288592
+        ]
+      },
+      "id": "node/7104123186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104139745",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Relief Colony",
+        "addr:street": "Panigate Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2197376,
+          22.2990384
+        ]
+      },
+      "id": "node/7104139745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104142919",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Purushottam Nagar",
+        "addr:street": "New VIP Ring Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2279556,
+          22.3174358
+        ]
+      },
+      "id": "node/7104142919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104143575",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Jay Ranchod Society 3, Chandranagar Society",
+        "addr:street": "Ajwa Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2265719,
+          22.3024035
+        ]
+      },
+      "id": "node/7104143575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104184235",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Nageshwar Society",
+        "addr:street": "Harni Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2116941,
+          22.3134845
+        ]
+      },
+      "id": "node/7104184235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104185971",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Ghanshyam Nagar Society 2",
+        "addr:street": "Manjalpur",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1907895,
+          22.2716168
+        ]
+      },
+      "id": "node/7104185971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104192978",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Atladara",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1610199,
+          22.2768734
+        ]
+      },
+      "id": "node/7104192978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104200007",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Taksh Complex 2, Kalyan Nagar, Diwalipura",
+        "addr:postcode": "390015",
+        "addr:street": "Vasna Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1575476,
+          22.2949315
+        ]
+      },
+      "id": "node/7104200007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104202078",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Buhucharuji Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2026182,
+          22.3062586
+        ]
+      },
+      "id": "node/7104202078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104222072",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Makarpura",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1995871,
+          22.2605164
+        ]
+      },
+      "id": "node/7104222072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104223204",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Manjalpur",
+        "addr:street": "ShreePalli society",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1974735,
+          22.2783903
+        ]
+      },
+      "id": "node/7104223204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104224030",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Amee Society",
+        "addr:street": "Alkapuri",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.17431,
+          22.3137865
+        ]
+      },
+      "id": "node/7104224030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104249918",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Nizampura Pragatinagar",
+        "addr:street": "Fatehgunj",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1911221,
+          22.3259099
+        ]
+      },
+      "id": "node/7104249918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104278988",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Sayajigunj",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1851032,
+          22.309047
+        ]
+      },
+      "id": "node/7104278988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104293723",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Gokul Nagar",
+        "addr:street": "Makarpura Main Rd,",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2440581,
+          22.2791821
+        ]
+      },
+      "id": "node/7104293723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104355343",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Vadodara SH-158, Bombay",
+        "addr:street": "Vadodara Bypass",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2098975,
+          22.3601653
+        ]
+      },
+      "id": "node/7104355343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104366034",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Bhatia Chawl",
+        "addr:street": "Tagore Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2104928,
+          22.2912468
+        ]
+      },
+      "id": "node/7104366034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104368027",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Vadodara,SH-11",
+        "addr:street": "Vadodara Road,",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2837334,
+          22.2295735
+        ]
+      },
+      "id": "node/7104368027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104374418",
+        "addr:city": "Vadodara",
+        "addr:street": "SH-11, Vadodara Road,",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2600226,
+          22.2524337
+        ]
+      },
+      "id": "node/7104374418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104375122",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Ravaliya Mahudevegon",
+        "addr:street": "Airport road SH-6",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2212915,
+          22.346874
+        ]
+      },
+      "id": "node/7104375122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104405027",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Dhumal, Chhani",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1712952,
+          22.3625714
+        ]
+      },
+      "id": "node/7104405027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104430092",
+        "addr:city": "Vadodara",
+        "addr:housenumber": "Dumad Village",
+        "addr:street": "Vadodara Savli Highway",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1907144,
+          22.3829248
+        ]
+      },
+      "id": "node/7104430092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104434953",
+        "addr:city": "Vadodara",
+        "addr:street": "Ranoli GIDC, Ranoli",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1382289,
+          22.3992927
+        ]
+      },
+      "id": "node/7104434953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7740296614",
+        "addr:city": "Vadodara",
+        "addr:postcode": "391410",
+        "addr:street": "Vasna - Bhayli Main Road",
+        "amenity": "fuel",
+        "brand": "Essar",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "Essar Petrol Pump",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1316273,
+          22.2905919
+        ]
+      },
+      "id": "node/7740296614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9104327720",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2820433,
+          22.2298855
+        ]
+      },
+      "id": "node/9104327720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10688399730",
+        "amenity": "fuel",
+        "name": "ESSAR Petrol station Susen Tarsali Ring Road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2071562,
+          22.2568283
+        ]
+      },
+      "id": "node/10688399730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13149521937",
+        "addr:city": "vadodara",
+        "addr:district": "Vadodara",
+        "addr:postcode": "390019",
+        "amenity": "fuel",
+        "brand": "HP",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "mobile": "+91-9979140121",
+        "name": "Pioneer Petrol Pump",
+        "phone": "+91-0265-2577141",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2627442,
+          22.3282563
+        ]
+      },
+      "id": "node/13149521937"
+    }
+  ]
+}

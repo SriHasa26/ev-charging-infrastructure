@@ -1,0 +1,935 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-13T19:10:33Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236540029",
+        "amenity": "fuel",
+        "cmt": "28-JAN-10 14:12:20",
+        "description": "28-JAN-10 14:12:20",
+        "ele": "28.244263",
+        "name": "Fuel",
+        "source": "GPS",
+        "sym": "Gas Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9586925,
+          21.3424228
+        ]
+      },
+      "id": "node/1236540029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236540034",
+        "amenity": "fuel",
+        "cmt": "28-JAN-10 14:08:47",
+        "description": "28-JAN-10 14:08:47",
+        "ele": "33.291138",
+        "name": "Fuel",
+        "source": "GPS",
+        "sym": "Gas Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9583133,
+          21.3758248
+        ]
+      },
+      "id": "node/1236540034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236543131",
+        "amenity": "fuel",
+        "ele": "14.55",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9706208,
+          21.0320248
+        ]
+      },
+      "id": "node/1236543131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236543132",
+        "amenity": "fuel",
+        "ele": "14.06",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9710195,
+          21.0298606
+        ]
+      },
+      "id": "node/1236543132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707863390",
+        "amenity": "fuel",
+        "name": "Cng petrol pump",
+        "name:en": "Cng petrol pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9538973,
+          21.2988092
+        ]
+      },
+      "id": "node/4707863390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5593928553",
+        "addr:city": "Surat",
+        "addr:postcode": "395003",
+        "addr:street": "Railway Station Road",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8394469,
+          21.2047685
+        ]
+      },
+      "id": "node/5593928553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6181546667",
+        "addr:city": "Surat",
+        "addr:postcode": "395006",
+        "addr:street": "Varachha Road",
+        "amenity": "fuel",
+        "name": "Gitanjali petrol pump",
+        "payment:cards": "yes",
+        "payment:cash": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8478,
+          21.209261
+        ]
+      },
+      "id": "node/6181546667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7100931277",
+        "addr:city": "Surat",
+        "addr:housenumber": "Sugam Society",
+        "addr:street": "Rander Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8056846,
+          21.1995812
+        ]
+      },
+      "id": "node/7100931277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7100949375",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7866731,
+          21.1690696
+        ]
+      },
+      "id": "node/7100949375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7100993026",
+        "addr:city": "Surat",
+        "addr:housenumber": "Hari Om Party Plot",
+        "addr:street": "LP Savani Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7835674,
+          21.1983103
+        ]
+      },
+      "id": "node/7100993026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101013410",
+        "addr:city": "Surat",
+        "addr:street": "Althan - Sarsana Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.802237,
+          21.1408996
+        ]
+      },
+      "id": "node/7101013410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101013617",
+        "addr:city": "Surat",
+        "addr:housenumber": "Panaas, Athwa",
+        "addr:street": "City Light Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "compressed_air": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7973527,
+          21.1605377
+        ]
+      },
+      "id": "node/7101013617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101016356",
+        "addr:city": "Surat",
+        "addr:housenumber": "Udhna Teen Rasta, Udhna BRTS",
+        "addr:street": "Udhna Main Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8400883,
+          21.1712419
+        ]
+      },
+      "id": "node/7101016356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101017396",
+        "addr:city": "Surat",
+        "addr:housenumber": "Khatodra Colony,Udhna Darwaja",
+        "addr:street": "Udhna Main Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8336081,
+          21.1800958
+        ]
+      },
+      "id": "node/7101017396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101020483",
+        "addr:city": "Surat",
+        "addr:housenumber": "Pandesara, Udhna",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "fuel:diesel": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8527376,
+          21.1309425
+        ]
+      },
+      "id": "node/7101020483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101040213",
+        "addr:city": "Surat",
+        "addr:housenumber": "Unn Char Rasta, Unn Patiya",
+        "addr:street": "Surat - Navsari Rd,",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8603336,
+          21.1121624
+        ]
+      },
+      "id": "node/7101040213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101051790",
+        "addr:city": "Surat",
+        "addr:street": "Udhana - Magdalla Rd,",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8273102,
+          21.173633
+        ]
+      },
+      "id": "node/7101051790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101083908",
+        "addr:city": "Surat",
+        "addr:housenumber": "Dindoli Kharvasa rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8890651,
+          21.1336833
+        ]
+      },
+      "id": "node/7101083908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101097923",
+        "addr:city": "Surat",
+        "addr:housenumber": "Jiav",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8381246,
+          21.11089
+        ]
+      },
+      "id": "node/7101097923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101103614",
+        "addr:city": "Surat",
+        "addr:housenumber": "Sufi Baug, Varachha",
+        "addr:street": "Unapani Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8390151,
+          21.2037723
+        ]
+      },
+      "id": "node/7101103614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101114250",
+        "addr:city": "Surat",
+        "addr:housenumber": "Sardar Market",
+        "addr:street": "Kadodara Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8538531,
+          21.1939546
+        ]
+      },
+      "id": "node/7101114250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101118596",
+        "addr:city": "Surat",
+        "addr:housenumber": "Bhavani Industrial Estate",
+        "addr:street": "Surat - Bardoli Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8717401,
+          21.1909032
+        ]
+      },
+      "id": "node/7101118596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101149415",
+        "addr:city": "Surat",
+        "addr:street": "Valthan-Punagam Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.94007,
+          21.2115591
+        ]
+      },
+      "id": "node/7101149415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101151021",
+        "addr:city": "Surat",
+        "addr:housenumber": "GEB Colony",
+        "addr:street": "Varachha Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8680366,
+          21.2174351
+        ]
+      },
+      "id": "node/7101151021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101158158",
+        "addr:city": "Surat",
+        "addr:street": "Hazira Magdalla Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7420695,
+          21.1561601
+        ]
+      },
+      "id": "node/7101158158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101162197",
+        "addr:city": "Surat",
+        "addr:housenumber": "Shakti Vijay Society",
+        "addr:street": "kamrej-hwy",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8937965,
+          21.2270463
+        ]
+      },
+      "id": "node/7101162197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101164116",
+        "addr:city": "Sachin",
+        "addr:street": "Sachin - Talangpor Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8653868,
+          21.0777146
+        ]
+      },
+      "id": "node/7101164116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101170733",
+        "addr:city": "Surat",
+        "addr:housenumber": "Palsana",
+        "addr:street": "Sachin Rd",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9759796,
+          21.0919696
+        ]
+      },
+      "id": "node/7101170733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101234640",
+        "addr:city": "Surat",
+        "addr:housenumber": "Bharthana,",
+        "addr:street": "VIP Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7908964,
+          21.1422766
+        ]
+      },
+      "id": "node/7101234640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101234641",
+        "addr:city": "Surat",
+        "addr:housenumber": "Bharthana",
+        "addr:street": "VIP Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7921732,
+          21.1422065
+        ]
+      },
+      "id": "node/7101234641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101277942",
+        "addr:city": "Surat",
+        "addr:housenumber": "Ichchhapore",
+        "addr:street": "Hazira road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7213149,
+          21.1892898
+        ]
+      },
+      "id": "node/7101277942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101293894",
+        "addr:city": "Surat",
+        "addr:housenumber": "Saiyedpura",
+        "addr:street": "Saiyedpura Main Rd,",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8275525,
+          21.2030479
+        ]
+      },
+      "id": "node/7101293894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101298516",
+        "addr:city": "Surat",
+        "addr:housenumber": "Udhna Udhyog Nagar",
+        "addr:street": "Udhna Station Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.850699,
+          21.1708828
+        ]
+      },
+      "id": "node/7101298516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101300029",
+        "addr:city": "Surat",
+        "addr:housenumber": "near BSNL, IOC Colony",
+        "addr:street": "Ghod Dhod Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8154118,
+          21.175755
+        ]
+      },
+      "id": "node/7101300029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101302584",
+        "addr:city": "Surat",
+        "addr:housenumber": "Shree Ram Textile Market",
+        "addr:street": "Ring Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8425354,
+          21.1945446
+        ]
+      },
+      "id": "node/7101302584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101304196",
+        "addr:city": "Surat",
+        "addr:housenumber": "New Ramdev Nagar,",
+        "addr:street": "Bhathena Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8439827,
+          21.1787663
+        ]
+      },
+      "id": "node/7101304196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101311089",
+        "addr:city": "Surat",
+        "addr:housenumber": "Guru Ram Pavan Bhumi",
+        "addr:street": "Anand Mahal Rd,",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7970238,
+          21.194882
+        ]
+      },
+      "id": "node/7101311089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101314602",
+        "addr:city": "Surat",
+        "addr:housenumber": "Umarwada",
+        "addr:street": "Ring Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8437692,
+          21.1972955
+        ]
+      },
+      "id": "node/7101314602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101340473",
+        "addr:city": "Surat",
+        "addr:housenumber": "Surat - Kamrej Hwy",
+        "addr:street": "Varachha Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8732923,
+          21.220858
+        ]
+      },
+      "id": "node/7101340473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7101346266",
+        "addr:housenumber": "Pipodara",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9578308,
+          21.3494736
+        ]
+      },
+      "id": "node/7101346266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7550895754",
+        "addr:street": "Puna Kumbhariya Road",
+        "amenity": "fuel",
+        "description": "Bharat Petroleum",
+        "name": "Puna Kumbhariya Petrol Pump",
+        "opening_hours": "Mo-Su 05:30-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8581855,
+          21.1913592
+        ]
+      },
+      "id": "node/7550895754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12484734426",
+        "amenity": "fuel",
+        "name": "IndianOil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7925107,
+          21.1429632
+        ]
+      },
+      "id": "node/12484734426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12593526540",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8525075,
+          21.1328918
+        ]
+      },
+      "id": "node/12593526540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12593687395",
+        "addr:city": "Surat",
+        "addr:housenumber": "Udhna Teen Rasta, Udhna BRTS",
+        "addr:street": "Udhna Main Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Reliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8271521,
+          21.1704388
+        ]
+      },
+      "id": "node/12593687395"
+    }
+  ]
+}

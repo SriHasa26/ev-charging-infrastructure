@@ -1,0 +1,5 @@
+{
+  "name": "FuelFlow AI",
+  "description": "AI-driven multi-fuel infrastructure optimization platform for EV and CNG users. Find stations, predict queue times, and optimize your route.",
+  "requestFramePermissions": ["geolocation"]
+}

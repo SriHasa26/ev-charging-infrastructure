@@ -1,0 +1,3149 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-13T19:11:35Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278887458",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:postcode": "411013",
+        "addr:state": "Maharashtra",
+        "addr:street": "Mundwha Road",
+        "amenity": "fuel",
+        "atm": "no",
+        "brand": "Pure For sure",
+        "fuel": "yes",
+        "name": "Magar Petrol Pump",
+        "operator": "Bharat Petrolium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9330133,
+          18.5152532
+        ]
+      },
+      "id": "node/278887458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/283204710",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:state": "MH",
+        "amenity": "fuel",
+        "brand": "BPCL",
+        "check_date": "2026-03-09",
+        "compressed_air": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Roshini Petrol Pump",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.885693,
+          18.539254
+        ]
+      },
+      "id": "node/283204710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/513129409",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:postcode": "411040",
+        "addr:state": "Maharashtra",
+        "addr:street": "Solapur Road",
+        "amenity": "fuel",
+        "atm": "no",
+        "check_date": "2026-03-12",
+        "fuel": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8979581,
+          18.5067839
+        ]
+      },
+      "id": "node/513129409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/518664242",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:province": "Koregaon Park",
+        "addr:state": "MH",
+        "addr:street": "North Main Road",
+        "amenity": "fuel",
+        "brand": "HPCL",
+        "check_date": "2026-03-09",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Mukul Petrol Pump",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.885683,
+          18.53956
+        ]
+      },
+      "id": "node/518664242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674708235",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:postcode": "411018",
+        "addr:state": "Maharashtra",
+        "addr:street": "Vitthal Shivarkar Marg",
+        "amenity": "fuel",
+        "atm": "no",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "compressed_air": "yes",
+        "fuel": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "fuel:electricity": "no",
+        "name": "Kedari Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8986607,
+          18.4865476
+        ]
+      },
+      "id": "node/674708235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763446417",
+        "amenity": "charging_station",
+        "check_date": "2026-03-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8088593,
+          18.496101
+        ]
+      },
+      "id": "node/763446417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763515722",
+        "amenity": "fuel",
+        "check_date": "2026-03-12",
+        "name": "Kekan Petrol Pump (HP)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8970804,
+          18.5751028
+        ]
+      },
+      "id": "node/763515722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763515723",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "check_date": "2026-03-11",
+        "name": "Indian Oil",
+        "operator": "Sawant Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8849523,
+          18.5736645
+        ]
+      },
+      "id": "node/763515723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763515724",
+        "amenity": "fuel",
+        "check_date": "2026-03-11",
+        "fuel:petrol": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8765095,
+          18.5752812
+        ]
+      },
+      "id": "node/763515724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1152599574",
+        "amenity": "fuel",
+        "brand": "Petrol",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "operator": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6521579,
+          18.7120924
+        ]
+      },
+      "id": "node/1152599574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1214683436",
+        "amenity": "fuel",
+        "check_date": "2026-03-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8855356,
+          18.5067845
+        ]
+      },
+      "id": "node/1214683436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1223057795",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:postcode": "411048",
+        "addr:state": "Maharashtra",
+        "addr:street": "Kondhwa Road",
+        "amenity": "fuel",
+        "atm": "no",
+        "fuel": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8887342,
+          18.4690649
+        ]
+      },
+      "id": "node/1223057795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1223950732",
+        "amenity": "fuel",
+        "check_date": "2026-03-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8769058,
+          18.5257119
+        ]
+      },
+      "id": "node/1223950732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1280209016",
+        "amenity": "fuel",
+        "name": "Dev Krupa Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8905684,
+          18.6678408
+        ]
+      },
+      "id": "node/1280209016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1534503367",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum",
+        "operator": "HP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8419687,
+          18.517035
+        ]
+      },
+      "id": "node/1534503367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1534841979",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:street": "KK Market road",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "name": "Nuserawan Petrol Pump",
+        "operator": "Bharat Petroleum",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "self_service": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8580494,
+          18.4686347
+        ]
+      },
+      "id": "node/1534841979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1534841981",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "check_date": "2026-03-13",
+        "name": "Indian Oil",
+        "operator": "Indian Oil (IOCL)",
+        "website": "https://www.iocl.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8463028,
+          18.5010323
+        ]
+      },
+      "id": "node/1534841981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1624128500",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "brand:wikipedia": "en:Hindustan Petroleum",
+        "name": "Hindustan Petroleum (HP)",
+        "official_name": "Hindustan Petroleum",
+        "operator": "Hindustan Petroleum",
+        "wikipedia:en": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7355357,
+          18.5939372
+        ]
+      },
+      "id": "node/1624128500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1684953195",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "fuel:diesel": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7611058,
+          18.5920603
+        ]
+      },
+      "id": "node/1684953195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1705497109",
+        "addr:city": "pune",
+        "addr:street": "Sinhagad Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "check_date": "2026-03-13",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "yes",
+        "name": "Indian Oil",
+        "operator": "indian oil coperation limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8340688,
+          18.4923892
+        ]
+      },
+      "id": "node/1705497109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1709944514",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8584177,
+          18.4638412
+        ]
+      },
+      "id": "node/1709944514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1829975077",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829066,
+          18.4576966
+        ]
+      },
+      "id": "node/1829975077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1830344236",
+        "addr:street": "Marunji Road",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum (HP)",
+        "name": "Rajmudra Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7175038,
+          18.6124229
+        ]
+      },
+      "id": "node/1830344236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1849550673",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Sambhaji chowk Indian Oil",
+        "operator": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7701392,
+          18.6472491
+        ]
+      },
+      "id": "node/1849550673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345384738",
+        "addr:city": "PUNE",
+        "addr:district": "PUNE",
+        "addr:postcode": "411027",
+        "addr:street": "KATE VASTI",
+        "amenity": "fuel",
+        "brand": "INDIAN OIL",
+        "building": "yes",
+        "fuel:air": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "CNG PETROL PUMP",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8037493,
+          18.5921702
+        ]
+      },
+      "id": "node/2345384738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2345384739",
+        "amenity": "fuel",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8028964,
+          18.6005441
+        ]
+      },
+      "id": "node/2345384739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2502782321",
+        "amenity": "fuel",
+        "operator": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.987329,
+          18.5825012
+        ]
+      },
+      "id": "node/2502782321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2929239716",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "check_date": "2026-03-12",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8700439,
+          18.5019555
+        ]
+      },
+      "id": "node/2929239716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2973043893",
+        "amenity": "fuel",
+        "brand": "HPCL",
+        "name": "Rajgad Petroleum",
+        "name:mr": "राजगड पेट्रोलियम"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8570873,
+          18.322444
+        ]
+      },
+      "id": "node/2973043893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3498347004",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.781085,
+          18.6545176
+        ]
+      },
+      "id": "node/3498347004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3504368176",
+        "addr:housenumber": "Survey No. 19/3",
+        "addr:place": "Hingane Khurd",
+        "addr:street": "Sinhagad Road",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "check_date": "2026-03-15",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "name": "Bharat Petroleum",
+        "phone": "02024345105",
+        "website": "http://bharatpetroleum.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.826623,
+          18.4827024
+        ]
+      },
+      "id": "node/3504368176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3522891765",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9328051,
+          18.5320031
+        ]
+      },
+      "id": "node/3522891765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3523531813",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9353949,
+          18.5450743
+        ]
+      },
+      "id": "node/3523531813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4165758692",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411020",
+        "addr:street": "Bhau Patil Road,Bopodi",
+        "amenity": "fuel",
+        "name": "Bharat Petrol Pump",
+        "not:brand:wikidata": "Q854826",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8348309,
+          18.5729698
+        ]
+      },
+      "id": "node/4165758692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4230696417",
+        "addr:place": "Khed",
+        "addr:street": "Pune Nashik Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "fuel:diesel": "yes",
+        "name": "Indian Oil",
+        "operator": "IOCL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8681869,
+          18.7731875
+        ]
+      },
+      "id": "node/4230696417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4306139891",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6967284,
+          18.5111719
+        ]
+      },
+      "id": "node/4306139891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4664779091",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil",
+        "name:en": "IndianOil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6697111,
+          18.7185093
+        ]
+      },
+      "id": "node/4664779091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4678212190",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "check_date": "2026-03-17",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8666574,
+          18.5225285
+        ]
+      },
+      "id": "node/4678212190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5100406179",
+        "addr:city": "Pune",
+        "addr:housenumber": "672/11",
+        "addr:postcode": "411037",
+        "addr:street": "Swami Vivekanand Marg",
+        "addr:unit": "litre",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "Amrapali Service Station",
+        "official_name": "Hindustan Petroleum",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "operator": "HP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8636469,
+          18.4693722
+        ]
+      },
+      "id": "node/5100406179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5149359724",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "brand:wikipedia": "en:Hindustan Petroleum",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8598716,
+          18.7606852
+        ]
+      },
+      "id": "node/5149359724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5302827824",
+        "amenity": "fuel",
+        "name:en": "Sheetal petrol pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8889138,
+          18.4691095
+        ]
+      },
+      "id": "node/5302827824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5784328171",
+        "amenity": "fuel",
+        "brand": "Indian Oil Petrol Pump",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7489037,
+          18.5911995
+        ]
+      },
+      "id": "node/5784328171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5921458579",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7480208,
+          18.7394414
+        ]
+      },
+      "id": "node/5921458579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6116153836",
+        "amenity": "charging_station",
+        "brand": "PowerUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7719864,
+          18.567214
+        ]
+      },
+      "id": "node/6116153836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6502792485",
+        "amenity": "fuel",
+        "name:en": "Bharat Ajay Gas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8047303,
+          18.5077783
+        ]
+      },
+      "id": "node/6502792485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6554849412",
+        "amenity": "fuel",
+        "name": "HP Fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9432447,
+          18.7343014
+        ]
+      },
+      "id": "node/6554849412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6743671987",
+        "addr:postcode": "411052",
+        "amenity": "fuel",
+        "name:en": "Vanaz CNG Pump",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "phone": "02225232414",
+        "website": "https://www.vanaz.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8032047,
+          18.4821829
+        ]
+      },
+      "id": "node/6743671987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926194405",
+        "amenity": "fuel",
+        "name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9303071,
+          18.3906448
+        ]
+      },
+      "id": "node/6926194405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6987221285",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "brand:wikipedia": "en:Bharat Petroleum",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8581489,
+          18.7375547
+        ]
+      },
+      "id": "node/6987221285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6987221286",
+        "amenity": "fuel",
+        "name": "Reliance Petrolium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8581854,
+          18.739552
+        ]
+      },
+      "id": "node/6987221286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6987289750",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "brand:wikipedia": "en:Hindustan Petroleum",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8486348,
+          18.7128845
+        ]
+      },
+      "id": "node/6987289750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6991664026",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "brand:wikipedia": "en:Hindustan Petroleum",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9686362,
+          18.7349553
+        ]
+      },
+      "id": "node/6991664026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992015097",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8595323,
+          18.7479096
+        ]
+      },
+      "id": "node/6992015097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992015108",
+        "amenity": "fuel",
+        "fuel:cng": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8576874,
+          18.7383147
+        ]
+      },
+      "id": "node/6992015108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992015123",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8361734,
+          18.759093
+        ]
+      },
+      "id": "node/6992015123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992015129",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8286318,
+          18.7589565
+        ]
+      },
+      "id": "node/6992015129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7003977285",
+        "addr:postcode": "411052",
+        "addr:street": "Mumbai Pune Bypass Road * Katraj-Dehu Rd Bypass",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "check_date": "2023-03-26",
+        "name": "Shell",
+        "name:en": "Shell",
+        "name:mr": "शेल",
+        "opening_hours": "Mo-Su 06:00-23:00",
+        "phone": "098908 79278",
+        "self_service": "no",
+        "website": "https://find.shell.com/in/fuel/10053756-warje"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7955276,
+          18.4880534
+        ]
+      },
+      "id": "node/7003977285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7004059243",
+        "amenity": "fuel",
+        "name": "Essar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8955701,
+          18.7428538
+        ]
+      },
+      "id": "node/7004059243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7004059244",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.907835,
+          18.7405414
+        ]
+      },
+      "id": "node/7004059244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7004059245",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9069767,
+          18.7398887
+        ]
+      },
+      "id": "node/7004059245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031749414",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8492658,
+          18.658727
+        ]
+      },
+      "id": "node/7031749414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031749438",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "brand:wikipedia": "en:Bharat Petroleum",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.837028,
+          18.6794411
+        ]
+      },
+      "id": "node/7031749438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031750686",
+        "amenity": "fuel",
+        "name": "CNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7428473,
+          18.6307371
+        ]
+      },
+      "id": "node/7031750686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7837166086",
+        "amenity": "fuel",
+        "check_date": "2024-12-21",
+        "name": "HP Fuel Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7604376,
+          18.6112182
+        ]
+      },
+      "id": "node/7837166086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7837166116",
+        "amenity": "fuel",
+        "name": "Rahul Auto Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7602941,
+          18.6106386
+        ]
+      },
+      "id": "node/7837166116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8937735777",
+        "amenity": "fuel",
+        "brand": "Essar",
+        "brand:wikidata": "Q5399372",
+        "name": "Essar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8385008,
+          18.6214088
+        ]
+      },
+      "id": "node/8937735777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9100168658",
+        "addr:city": "Chakan",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "brand:wikipedia": "en:Bharat Petroleum",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "Bharat Petroleum",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.828122,
+          18.7433385
+        ]
+      },
+      "id": "node/9100168658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9194870255",
+        "addr:city": "Pune",
+        "addr:postcode": "411021",
+        "addr:street": "Sus Road, Sus",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "brand:wikipedia": "en:Hindustan Petroleum",
+        "fuel:petrol": "yes",
+        "name": "Hindustan Petroleum Petrol Pump",
+        "official_name": "Hindustan Petroleum",
+        "operator": "Hindustan Petroleum Corporation Ltd",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7559139,
+          18.5522808
+        ]
+      },
+      "id": "node/9194870255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9204207098",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "brand:wikipedia": "en:Bharat Petroleum",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8244668,
+          18.5419599
+        ]
+      },
+      "id": "node/9204207098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9354791022",
+        "addr:city": "Pimpri Chinchwad",
+        "amenity": "fuel",
+        "name": "Indian Oil Petrol CNG Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8172069,
+          18.5695016
+        ]
+      },
+      "id": "node/9354791022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9411828530",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Ather Energy",
+        "fee": "yes",
+        "operator": "Ather Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8037729,
+          18.5071941
+        ]
+      },
+      "id": "node/9411828530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9520201461",
+        "addr:city": "Pune",
+        "addr:street": "Baner Road",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8244345,
+          18.5435847
+        ]
+      },
+      "id": "node/9520201461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9817082433",
+        "addr:postcode": "412107",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6627532,
+          18.4825123
+        ]
+      },
+      "id": "node/9817082433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837863245",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6698445,
+          18.5405152
+        ]
+      },
+      "id": "node/9837863245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9837876660",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6691022,
+          18.5430494
+        ]
+      },
+      "id": "node/9837876660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9950727513",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7660083,
+          18.6127584
+        ]
+      },
+      "id": "node/9950727513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10013758817",
+        "addr:street": "Kalewadi Phata-Auto Cluster BRTS Road",
+        "amenity": "charging_station",
+        "brand": "Tata power",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "operator": "Tata power"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7831554,
+          18.6111535
+        ]
+      },
+      "id": "node/10013758817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10091349942",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7264984,
+          18.5005245
+        ]
+      },
+      "id": "node/10091349942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10097434142",
+        "amenity": "charging_station",
+        "brand": "Bolt",
+        "capacity": "8",
+        "operator": "Bolt",
+        "scooter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8147009,
+          18.5095633
+        ]
+      },
+      "id": "node/10097434142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10097434143",
+        "amenity": "charging_station",
+        "brand": "Ather Energy",
+        "capacity": "1",
+        "operator": "Ather Energy",
+        "scooter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.781902,
+          18.5105681
+        ]
+      },
+      "id": "node/10097434143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10097434144",
+        "amenity": "charging_station",
+        "brand": "Ather Energy",
+        "capacity": "1",
+        "fee": "yes",
+        "operator": "Ather Energy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8496753,
+          18.4844962
+        ]
+      },
+      "id": "node/10097434144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10097460085",
+        "amenity": "charging_station",
+        "brand": "Ather Energy",
+        "operator": "Ather Energy",
+        "scooter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8304638,
+          18.5189771
+        ]
+      },
+      "id": "node/10097460085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10250046452",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Tata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.806562,
+          18.5536336
+        ]
+      },
+      "id": "node/10250046452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10290789663",
+        "amenity": "charging_station",
+        "brand": "Go Ego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7624887,
+          18.5788787
+        ]
+      },
+      "id": "node/10290789663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10603436128",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "Hindustan Petroleum",
+        "operator": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8123241,
+          18.4419929
+        ]
+      },
+      "id": "node/10603436128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10603556730",
+        "addr:city": "Pune",
+        "addr:housenumber": "Shivane",
+        "addr:postcode": "411023",
+        "addr:street": "NDA Road",
+        "amenity": "fuel",
+        "brand": "Indian oil",
+        "description": "Providing Service for Petrol, Diesel, CNG",
+        "name": "Dudhane Petrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7851455,
+          18.4686598
+        ]
+      },
+      "id": "node/10603556730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10603598575",
+        "addr:city": "Pune",
+        "addr:housenumber": "sus",
+        "addr:postcode": "411021",
+        "addr:street": "Sus Road",
+        "amenity": "fuel",
+        "brand": "MNGL",
+        "fuel:cng": "yes",
+        "name": "CHANDERE CNG Station",
+        "operator": "CHANDERE CNG Station",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7574904,
+          18.552645
+        ]
+      },
+      "id": "node/10603598575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10615755147",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Bolt",
+        "capacity": "1",
+        "operator": "Trimurti Motors",
+        "scooter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7770341,
+          18.5114349
+        ]
+      },
+      "id": "node/10615755147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10660664531",
+        "addr:city": "Ravet",
+        "amenity": "fuel",
+        "name": "CNG Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.742276,
+          18.6468332
+        ]
+      },
+      "id": "node/10660664531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10671202586",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Shell",
+        "brand:en": "Shell",
+        "brand:mr": "शेल",
+        "brand:wikidata": "Q110716465",
+        "capacity": "3",
+        "fee": "yes",
+        "operator": "Shell",
+        "operator:wikidata": "Q110716465"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7817517,
+          18.5857278
+        ]
+      },
+      "id": "node/10671202586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10672275824",
+        "amenity": "fuel",
+        "check_date": "2023-02-17",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "Laxmi Petroleum (Bharat Petroleum)",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7160447,
+          18.5781623
+        ]
+      },
+      "id": "node/10672275824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10678061028",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "check_date": "2023-02-03",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "internet_access": "no",
+        "name": "HP Petrol Pump",
+        "official_name": "Hindustan Petroleum",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "self_service": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8891015,
+          18.5903084
+        ]
+      },
+      "id": "node/10678061028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10719100420",
+        "amenity": "charging_station",
+        "brand": "goEgo Charging Station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7673099,
+          18.6170757
+        ]
+      },
+      "id": "node/10719100420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10719666344",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7488195,
+          18.591205
+        ]
+      },
+      "id": "node/10719666344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10724957186",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9129505,
+          18.597581
+        ]
+      },
+      "id": "node/10724957186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10725055240",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "name": "Sathe Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9134393,
+          18.5975867
+        ]
+      },
+      "id": "node/10725055240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10725542119",
+        "amenity": "fuel",
+        "name": "Kaspte Bharat Gas Agency"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7561869,
+          18.5917027
+        ]
+      },
+      "id": "node/10725542119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10745044185",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q110716465",
+        "name": "Shell",
+        "name:en": "Shell",
+        "name:mr": "शेल"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7817171,
+          18.5858816
+        ]
+      },
+      "id": "node/10745044185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10797010207",
+        "amenity": "charging_station",
+        "brand": "Tata power",
+        "operator": "Tata power",
+        "socket:type2": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7548665,
+          18.5998693
+        ]
+      },
+      "id": "node/10797010207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10797010208",
+        "amenity": "charging_station",
+        "brand": "Tata power",
+        "operator": "Tata power",
+        "socket:type2_combo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7548745,
+          18.5995979
+        ]
+      },
+      "id": "node/10797010208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10799704632",
+        "amenity": "fuel",
+        "brand": "Hindustan Petrolium",
+        "check_date": "2026-03-11",
+        "name": "Petrol Stations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8763027,
+          18.5773606
+        ]
+      },
+      "id": "node/10799704632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10841782157",
+        "access": "yes",
+        "addr:floor": "G",
+        "amenity": "charging_station",
+        "branch": "Copacabana",
+        "brand": "Ather Energy",
+        "brand:en": "Ather Energy",
+        "brand:mr": "एथर एनर्जी",
+        "capacity": "1",
+        "covered": "no",
+        "fee": "yes",
+        "level": "0",
+        "operator": "Ather Energy",
+        "source": "survey;local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7827295,
+          18.5887644
+        ]
+      },
+      "id": "node/10841782157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10844985580",
+        "access": "yes",
+        "addr:floor": "1",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "check_date": "2026-03-11",
+        "description": "60kW charger. Space for 2 cars.",
+        "fee": "yes",
+        "level": "1",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9073489,
+          18.5778315
+        ]
+      },
+      "id": "node/10844985580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10870849607",
+        "amenity": "charging_station",
+        "brand": "GoEgo",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7457888,
+          18.5906635
+        ]
+      },
+      "id": "node/10870849607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11005778506",
+        "access": "yes",
+        "addr:floor": "UB",
+        "amenity": "charging_station",
+        "brand": "Jio pulse",
+        "fee": "yes",
+        "level": "-1",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8068573,
+          18.5638072
+        ]
+      },
+      "id": "node/11005778506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11033745938",
+        "amenity": "charging_station",
+        "brand": "Tata Power",
+        "brand:mr": "टाटा पावर",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7381716,
+          18.5897559
+        ]
+      },
+      "id": "node/11033745938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11050681544",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "check_date": "2023-07-17",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum",
+        "self_service": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6999487,
+          18.5737041
+        ]
+      },
+      "id": "node/11050681544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11217502924",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "goEgo Charging Station",
+        "capacity": "5",
+        "operator": "Westend Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8069355,
+          18.5623306
+        ]
+      },
+      "id": "node/11217502924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11256915525",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8730537,
+          18.7490962
+        ]
+      },
+      "id": "node/11256915525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11406933645",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411036",
+        "addr:street": "Z corner",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "fuel:Petrol": "yes",
+        "fuel:diesel": "yes",
+        "fuel:nitrogen": "yes",
+        "name": "Lonkar Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9544156,
+          18.5266564
+        ]
+      },
+      "id": "node/11406933645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11452082417",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7990514,
+          18.6347952
+        ]
+      },
+      "id": "node/11452082417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11578223404",
+        "amenity": "charging_station",
+        "operator": "Zeal Energy Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.786174,
+          18.4600725
+        ]
+      },
+      "id": "node/11578223404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11688010839",
+        "amenity": "fuel",
+        "brand": "MNGL",
+        "fuel:cng": "yes",
+        "name": "Gaikwad CNG station",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9318645,
+          18.5323221
+        ]
+      },
+      "id": "node/11688010839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11700219151",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "HP Petrol Pump- Sarita Services",
+        "operator": "Sarita Services"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7702091,
+          18.6201265
+        ]
+      },
+      "id": "node/11700219151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11809104007",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "HP Petrol Pump",
+        "official_name": "Hindustan Petroleum",
+        "operator": "Khandave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9556321,
+          18.589959
+        ]
+      },
+      "id": "node/11809104007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11812030007",
+        "addr:city": "Wagholi",
+        "addr:district": "Pune",
+        "addr:postcode": "412207",
+        "addr:street": "Nagar Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil Petrol Pump",
+        "brand:wikidata": "Q1289348",
+        "fuel:Petrol": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "name": "Indian Oil Petrol Pump",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9752536,
+          18.5803367
+        ]
+      },
+      "id": "node/11812030007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11819900104",
+        "addr:district": "Pune",
+        "addr:street": "Pune Nashik Road",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8477021,
+          18.6941924
+        ]
+      },
+      "id": "node/11819900104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11819926874",
+        "addr:district": "Pune",
+        "addr:street": "Pune Nashik Road",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8470804,
+          18.6850393
+        ]
+      },
+      "id": "node/11819926874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11830258530",
+        "amenity": "fuel",
+        "name": "MNGL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8025696,
+          18.5071052
+        ]
+      },
+      "id": "node/11830258530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11832697270",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7989619,
+          18.6115043
+        ]
+      },
+      "id": "node/11832697270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11862093825",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "check_date": "2026-03-09",
+        "name": "Indian Oil Petrol Pump",
+        "not:brand:wikidata": "Q1289348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.944362,
+          18.5652196
+        ]
+      },
+      "id": "node/11862093825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11922645612",
+        "amenity": "fuel",
+        "check_date": "2024-05-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7822155,
+          18.6091804
+        ]
+      },
+      "id": "node/11922645612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12035806969",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.819733,
+          18.6284915
+        ]
+      },
+      "id": "node/12035806969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12049125596",
+        "addr:city": "pimpri",
+        "addr:district": "pune",
+        "addr:street": "Old Pune–Mumbai Highway",
+        "amenity": "fuel",
+        "brand": "Indian Oil Petrol Pump",
+        "brand:wikidata": "Q1289348",
+        "fuel:diesel": "yes",
+        "fuel:h70": "yes",
+        "fuel:petrol": "yes",
+        "name": "Indian Oil Petrol Pump",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8113796,
+          18.6203015
+        ]
+      },
+      "id": "node/12049125596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12085087210",
+        "amenity": "fuel",
+        "check_date": "2024-07-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7219706,
+          18.58053
+        ]
+      },
+      "id": "node/12085087210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12334310661",
+        "amenity": "charging_station",
+        "brand": "kazam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7941778,
+          18.4979616
+        ]
+      },
+      "id": "node/12334310661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12350373268",
+        "access": "customers",
+        "amenity": "charging_station",
+        "brand": "EV Dock charging station",
+        "fee": "yes",
+        "operator": "EV Dock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.734433,
+          18.5857921
+        ]
+      },
+      "id": "node/12350373268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12350440058",
+        "access": "customers",
+        "amenity": "charging_station",
+        "brand": "shell",
+        "capacity": "30 kw",
+        "fee": "yes",
+        "operator": "shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7410354,
+          18.5907601
+        ]
+      },
+      "id": "node/12350440058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12350467611",
+        "access": "customers",
+        "amenity": "charging_station",
+        "brand": "Bijlify",
+        "capacity": "20 kw",
+        "fee": "yes",
+        "operator": "Bijlify"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7368921,
+          18.5781719
+        ]
+      },
+      "id": "node/12350467611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12458871181",
+        "access": "yes",
+        "addr:floor": "G",
+        "amenity": "charging_station",
+        "brand": "Statiq",
+        "capacity": "60",
+        "covered": "yes",
+        "fee": "yes",
+        "level": "0",
+        "network": "Statiq",
+        "operator": "Statiq",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8070465,
+          18.5638929
+        ]
+      },
+      "id": "node/12458871181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12473454969",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Bijlify",
+        "covered": "no",
+        "fee": "yes",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8410529,
+          18.5228186
+        ]
+      },
+      "id": "node/12473454969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12484089401",
+        "amenity": "fuel",
+        "name": "Shell Petrol Pump - Sus",
+        "opening_hours": "24/7",
+        "website": "https://find.shell.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7609474,
+          18.5517365
+        ]
+      },
+      "id": "node/12484089401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13144484777",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8699555,
+          18.7744489
+        ]
+      },
+      "id": "node/13144484777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13180319810",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8524748,
+          18.7222373
+        ]
+      },
+      "id": "node/13180319810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13245420558",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.867936,
+          18.7891322
+        ]
+      },
+      "id": "node/13245420558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13371273262",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "check_date": "2025-12-12",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6345958,
+          18.7385831
+        ]
+      },
+      "id": "node/13371273262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13371336963",
+        "amenity": "fuel",
+        "check_date": "2026-03-12",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:oil": "yes",
+        "fuel:petrol": "yes",
+        "internet_access": "no",
+        "name": "New auto corner",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "self_service": "no",
+        "toilets": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6971809,
+          18.6981531
+        ]
+      },
+      "id": "node/13371336963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13380364653",
+        "addr:city": "Talegoan Dabhade",
+        "addr:district": "Pune",
+        "addr:postcode": "410506",
+        "amenity": "fuel",
+        "check_date": "2026-03-09",
+        "fuel:diesel": "yes",
+        "fuel:octane_92": "yes",
+        "name": "Khandge petrol pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6816611,
+          18.7240782
+        ]
+      },
+      "id": "node/13380364653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13380385854",
+        "addr:city": "pune",
+        "addr:district": "haveli",
+        "amenity": "fuel",
+        "fuel:cng": "yes",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8492172,
+          18.6374147
+        ]
+      },
+      "id": "node/13380385854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13380453522",
+        "addr:city": "pune",
+        "addr:district": "haveli",
+        "addr:street": "Pune Nashik Road",
+        "amenity": "fuel",
+        "name": "Indian oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.849513,
+          18.6374423
+        ]
+      },
+      "id": "node/13380453522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13380495950",
+        "addr:city": "Pune",
+        "addr:district": "Pune",
+        "addr:postcode": "411014",
+        "addr:street": "Mundhwa Road",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "Hindustan Petroleum",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9344265,
+          18.5379276
+        ]
+      },
+      "id": "node/13380495950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13381071099",
+        "addr:city": "pune",
+        "addr:district": "haveli",
+        "addr:street": "Pune Nashik Road",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "name": "Bharat petrol pump",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8500665,
+          18.6407023
+        ]
+      },
+      "id": "node/13381071099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13381090117",
+        "addr:city": "pune",
+        "addr:district": "haveli",
+        "addr:street": "Pune Nashik Road",
+        "amenity": "fuel",
+        "branch": "Hindustan Petroleum",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "fuel:diesel": "yes",
+        "name": "petrol pump",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8502851,
+          18.6414573
+        ]
+      },
+      "id": "node/13381090117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13594942809",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "check_date": "2026-02-24",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6418517,
+          18.7369141
+        ]
+      },
+      "id": "node/13594942809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13595214019",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "check_date": "2026-02-24",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8023693,
+          18.4831031
+        ]
+      },
+      "id": "node/13595214019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13616206127",
+        "amenity": "fuel",
+        "check_date": "2026-03-04",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8540491,
+          18.5309499
+        ]
+      },
+      "id": "node/13616206127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13619838571",
+        "addr:postcode": "411048",
+        "addr:street": "Kondhwa Main Road",
+        "amenity": "fuel",
+        "check_date": "2026-03-05",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sheetal Petrol Pump",
+        "name:hi": "शीतल पेट्रोल पंप",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "self_service": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.888586,
+          18.4690776
+        ]
+      },
+      "id": "node/13619838571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13624423289",
+        "amenity": "fuel",
+        "check_date": "2026-03-07",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8520401,
+          18.5310543
+        ]
+      },
+      "id": "node/13624423289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13629179444",
+        "amenity": "fuel",
+        "check_date": "2026-03-09",
+        "name": "Bharat Petrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8791899,
+          18.5344901
+        ]
+      },
+      "id": "node/13629179444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13629390548",
+        "amenity": "fuel",
+        "check_date": "2026-03-09",
+        "name": "Hp Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8890778,
+          18.5902607
+        ]
+      },
+      "id": "node/13629390548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13629426866",
+        "amenity": "fuel",
+        "check_date": "2026-03-09",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "Shell Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9526801,
+          18.5014592
+        ]
+      },
+      "id": "node/13629426866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13629467266",
+        "amenity": "fuel",
+        "check_date": "2026-03-09",
+        "name": "Khandge Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6817243,
+          18.7241664
+        ]
+      },
+      "id": "node/13629467266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13634611483",
+        "amenity": "fuel",
+        "check_date": "2026-03-10",
+        "name": "Ghanwat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7555182,
+          18.7883692
+        ]
+      },
+      "id": "node/13634611483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13638581250",
+        "amenity": "fuel",
+        "check_date": "2026-03-09",
+        "name": "Nakhate Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7886641,
+          18.6045409
+        ]
+      },
+      "id": "node/13638581250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13639138201",
+        "amenity": "fuel",
+        "check_date": "2026-03-11",
+        "fuel:diesel": "yes",
+        "name": "Hindustan Petroleum",
+        "opening_hours": "07:00-23:00",
+        "payment:cash": "yes",
+        "self_service": "no",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7755149,
+          18.7888804
+        ]
+      },
+      "id": "node/13639138201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13640132352",
+        "amenity": "fuel",
+        "check_date": "2026-03-12",
+        "name": "Petrol Pump,Somatne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6828349,
+          18.7071452
+        ]
+      },
+      "id": "node/13640132352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13644326122",
+        "amenity": "fuel",
+        "check_date": "2026-03-13",
+        "name": "Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8630476,
+          18.5291084
+        ]
+      },
+      "id": "node/13644326122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13645260336",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "Hindustan Petroleum",
+        "official_name": "Hindustan Petroleum",
+        "short_name": "HP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9626389,
+          18.7356586
+        ]
+      },
+      "id": "node/13645260336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13645646232",
+        "amenity": "fuel",
+        "check_date": "2026-03-13",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8623543,
+          18.5293609
+        ]
+      },
+      "id": "node/13645646232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13648917399",
+        "amenity": "fuel",
+        "check_date": "2026-03-05",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.898674,
+          18.4865269
+        ]
+      },
+      "id": "node/13648917399"
+    }
+  ]
+}

@@ -1,0 +1,2603 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-13T19:07:28Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249054695",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "capacity": "16",
+        "compressed_air": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0909884,
+          28.4892384
+        ]
+      },
+      "id": "node/249054695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266374765",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "compressed_air": "yes",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0478668,
+          28.4324009
+        ]
+      },
+      "id": "node/266374765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266374789",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0373704,
+          28.4255168
+        ]
+      },
+      "id": "node/266374789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266374827",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0351409,
+          28.4374888
+        ]
+      },
+      "id": "node/266374827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266440233",
+        "amenity": "fuel",
+        "created_by": "Potlatch 0.9a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0557112,
+          28.465521
+        ]
+      },
+      "id": "node/266440233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266599684",
+        "amenity": "fuel",
+        "created_by": "Potlatch 0.9a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0375084,
+          28.4649633
+        ]
+      },
+      "id": "node/266599684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266599700",
+        "amenity": "fuel",
+        "created_by": "Potlatch 0.9a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0378775,
+          28.465152
+        ]
+      },
+      "id": "node/266599700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266599701",
+        "addr:city": "Gurugram",
+        "addr:postcode": "122001",
+        "addr:street": "Old Delhi Gurgaon Road",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil",
+        "operator": "Geeta Fuels"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0371571,
+          28.4672528
+        ]
+      },
+      "id": "node/266599701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271335759",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.150715,
+          28.4946609
+        ]
+      },
+      "id": "node/271335759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271335830",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "fuel:cng": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1719993,
+          28.5043431
+        ]
+      },
+      "id": "node/271335830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271336462",
+        "amenity": "fuel",
+        "name": "IBP Petrol Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0285383,
+          28.4554895
+        ]
+      },
+      "id": "node/271336462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277420964",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1007834,
+          28.5262252
+        ]
+      },
+      "id": "node/277420964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/277420968",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1070198,
+          28.5336932
+        ]
+      },
+      "id": "node/277420968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278166391",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9672657,
+          28.3818927
+        ]
+      },
+      "id": "node/278166391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278166413",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Petrol Pump Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9783194,
+          28.3926607
+        ]
+      },
+      "id": "node/278166413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278166484",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Petrol Pump Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9929142,
+          28.4098097
+        ]
+      },
+      "id": "node/278166484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/278166488",
+        "amenity": "fuel",
+        "name": "Petrol Pump IBP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.997265,
+          28.4192219
+        ]
+      },
+      "id": "node/278166488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279161187",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1561648,
+          28.5262695
+        ]
+      },
+      "id": "node/279161187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312102951",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9592671,
+          28.47291
+        ]
+      },
+      "id": "node/312102951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312103122",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9391982,
+          28.472546
+        ]
+      },
+      "id": "node/312103122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/410057535",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1431664,
+          28.5351953
+        ]
+      },
+      "id": "node/410057535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413315327",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "compressed_air": "yes",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0996758,
+          28.5229363
+        ]
+      },
+      "id": "node/413315327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413315328",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "compressed_air": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.100967,
+          28.5248952
+        ]
+      },
+      "id": "node/413315328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416361397",
+        "amenity": "fuel",
+        "check_date": "2025-02-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0726152,
+          28.463932
+        ]
+      },
+      "id": "node/416361397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448302160",
+        "amenity": "fuel",
+        "check_date": "2025-08-31",
+        "fuel:diesel": "yes",
+        "fuel:octane_80": "yes",
+        "internet_access": "no",
+        "name": "Bharat Petroleum",
+        "name:en": "Bharat Petroleum",
+        "operator": "Bharat Petroleum Corporation Limited",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:upi": "yes",
+        "self_service": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0752012,
+          28.4518108
+        ]
+      },
+      "id": "node/448302160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477905039",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "operator": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0596218,
+          28.3651932
+        ]
+      },
+      "id": "node/477905039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477905067",
+        "amenity": "fuel",
+        "name": "Dhillon Filling Station",
+        "operator": "HP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0675549,
+          28.3461287
+        ]
+      },
+      "id": "node/477905067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477905110",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "operator": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0294308,
+          28.4541686
+        ]
+      },
+      "id": "node/477905110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/581891475",
+        "amenity": "fuel",
+        "compressed_air": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0896164,
+          28.4383786
+        ]
+      },
+      "id": "node/581891475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602466586",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0778122,
+          28.5937773
+        ]
+      },
+      "id": "node/602466586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/603107127",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0247939,
+          28.4809004
+        ]
+      },
+      "id": "node/603107127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/723739718",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.037474,
+          28.5910461
+        ]
+      },
+      "id": "node/723739718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/723739767",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0552344,
+          28.5790955
+        ]
+      },
+      "id": "node/723739767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/723739793",
+        "amenity": "fuel",
+        "brand": "IGL",
+        "fuel:cng": "yes",
+        "name": "CNG Fuel Station",
+        "operator": "IGL",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0290084,
+          28.5959237
+        ]
+      },
+      "id": "node/723739793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/723739878",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0668071,
+          28.5436162
+        ]
+      },
+      "id": "node/723739878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/728300511",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0639396,
+          28.5733376
+        ]
+      },
+      "id": "node/728300511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/728300538",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0822696,
+          28.5209438
+        ]
+      },
+      "id": "node/728300538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/734233646",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0230835,
+          28.5226175
+        ]
+      },
+      "id": "node/734233646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/738197283",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0151659,
+          28.4798102
+        ]
+      },
+      "id": "node/738197283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1114869680",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1865562,
+          28.5703117
+        ]
+      },
+      "id": "node/1114869680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1389061407",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0719754,
+          28.47224
+        ]
+      },
+      "id": "node/1389061407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1480729647",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "compressed_air": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0675759,
+          28.5750095
+        ]
+      },
+      "id": "node/1480729647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1480729649",
+        "amenity": "fuel",
+        "compressed_air": "yes",
+        "name": "Indraprastha CNG gas station pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.067756,
+          28.5752361
+        ]
+      },
+      "id": "node/1480729649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1565310374",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1085002,
+          28.4819429
+        ]
+      },
+      "id": "node/1565310374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1646596547",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0663102,
+          28.3088661
+        ]
+      },
+      "id": "node/1646596547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1730575588",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "compressed_air": "yes",
+        "name": "Heera Fuel Station",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.099404,
+          28.4318938
+        ]
+      },
+      "id": "node/1730575588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1730577467",
+        "amenity": "fuel",
+        "brand": "HCG",
+        "compressed_air": "no",
+        "name": "HCG CNG Station",
+        "operator": "HCG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0997366,
+          28.4318987
+        ]
+      },
+      "id": "node/1730577467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1996927297",
+        "amenity": "fuel",
+        "name": "Petrol pump Maitri motors "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9423133,
+          28.3675991
+        ]
+      },
+      "id": "node/1996927297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1996985486",
+        "amenity": "fuel",
+        "name": "IOC COCO Manesar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9378314,
+          28.3426007
+        ]
+      },
+      "id": "node/1996985486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1996985488",
+        "amenity": "fuel",
+        "name": "Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9567863,
+          28.3762152
+        ]
+      },
+      "id": "node/1996985488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2025439677",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "compressed_air": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1633987,
+          28.5578343
+        ]
+      },
+      "id": "node/2025439677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2511126268",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum",
+        "source:amenity": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.116556,
+          28.5403844
+        ]
+      },
+      "id": "node/2511126268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2565033378",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0891714,
+          28.4162494
+        ]
+      },
+      "id": "node/2565033378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2706730316",
+        "amenity": "fuel",
+        "brand": "Indraprastha Gas Limited",
+        "fuel:cng": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1667456,
+          28.5217581
+        ]
+      },
+      "id": "node/2706730316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3246081385",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1813607,
+          28.5709641
+        ]
+      },
+      "id": "node/3246081385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3704734414",
+        "amenity": "fuel",
+        "brand": "IGL",
+        "brand:wikidata": "Q125553945",
+        "fuel:cng": "yes",
+        "name": "IGL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1374742,
+          28.5721377
+        ]
+      },
+      "id": "node/3704734414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4071049790",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0415645,
+          28.4174044
+        ]
+      },
+      "id": "node/4071049790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4071049791",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0420039,
+          28.4175397
+        ]
+      },
+      "id": "node/4071049791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4071049792",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0426565,
+          28.4180943
+        ]
+      },
+      "id": "node/4071049792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4162525662",
+        "amenity": "fuel",
+        "name": "IBP Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0463322,
+          28.4557901
+        ]
+      },
+      "id": "node/4162525662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4164673331",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0467775,
+          28.4578288
+        ]
+      },
+      "id": "node/4164673331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4211294802",
+        "amenity": "fuel",
+        "brand": "IGL",
+        "brand:short": "IGL",
+        "brand:wikidata": "Q125553945",
+        "fuel:cng": "yes",
+        "name": "IGL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1964421,
+          28.5699619
+        ]
+      },
+      "id": "node/4211294802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396969419",
+        "amenity": "fuel",
+        "name": "CNG Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1067343,
+          28.5584543
+        ]
+      },
+      "id": "node/4396969419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453247292",
+        "amenity": "fuel",
+        "brand": "IGL",
+        "name": "CNG Fuel Station",
+        "operator": "IGL",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0369101,
+          28.5906402
+        ]
+      },
+      "id": "node/4453247292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453248391",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0533799,
+          28.577472
+        ]
+      },
+      "id": "node/4453248391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4466591562",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9548459,
+          28.3753981
+        ]
+      },
+      "id": "node/4466591562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4618647988",
+        "amenity": "fuel",
+        "brand": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1840092,
+          28.4496992
+        ]
+      },
+      "id": "node/4618647988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692006383",
+        "amenity": "fuel",
+        "brand": "Indraprastha Gas Limited",
+        "fuel:cng": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1326402,
+          28.5385446
+        ]
+      },
+      "id": "node/4692006383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4778391815",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0543873,
+          28.5558238
+        ]
+      },
+      "id": "node/4778391815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5133508409",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "compressed_air": "yes",
+        "name": "Indian Oil",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1882027,
+          28.5490489
+        ]
+      },
+      "id": "node/5133508409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5134453892",
+        "amenity": "fuel",
+        "brand": "IGL",
+        "brand:wikidata": "Q125553945",
+        "fuel:cng": "yes",
+        "name": "IGL",
+        "operator": "Indraprastha Gas Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1804718,
+          28.5532352
+        ]
+      },
+      "id": "node/5134453892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5137961060",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "brand:wikipedia": "en:Bharat Petroleum",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1793308,
+          28.5804633
+        ]
+      },
+      "id": "node/5137961060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5305575046",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "compressed_air": "yes",
+        "name": "Qutub Service Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1964126,
+          28.534509
+        ]
+      },
+      "id": "node/5305575046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5323165129",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1899028,
+          28.5279296
+        ]
+      },
+      "id": "node/5323165129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5426405564",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1721419,
+          28.5843665
+        ]
+      },
+      "id": "node/5426405564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5426405945",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1714396,
+          28.587331
+        ]
+      },
+      "id": "node/5426405945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5455135435",
+        "addr:city": "New Delhi",
+        "addr:postcode": "110022",
+        "addr:street": "Tamil Sangam Marg",
+        "amenity": "fuel",
+        "brand": "IGL",
+        "brand:wikidata": "Q125553945",
+        "fuel:cng": "yes",
+        "name": "Indraprastha Gas Station",
+        "operator": "Indraprastha Gas Limited",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1756357,
+          28.5675278
+        ]
+      },
+      "id": "node/5455135435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5455135884",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "compressed_air": "yes",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1887933,
+          28.5673034
+        ]
+      },
+      "id": "node/5455135884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5490932093",
+        "amenity": "fuel",
+        "brand": "Indraprastha Gas Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1903825,
+          28.5259072
+        ]
+      },
+      "id": "node/5490932093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5561733970",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1746902,
+          28.5776067
+        ]
+      },
+      "id": "node/5561733970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5592115723",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1377586,
+          28.5722409
+        ]
+      },
+      "id": "node/5592115723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604865251",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "fixme": "It seems to have two Gas Station tag here. A local survey required to verify/remove the tags.",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1220987,
+          28.5450931
+        ]
+      },
+      "id": "node/5604865251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604865253",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0819917,
+          28.5222272
+        ]
+      },
+      "id": "node/5604865253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5738752548",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1217165,
+          28.5448893
+        ]
+      },
+      "id": "node/5738752548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5738752561",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1949192,
+          28.569869
+        ]
+      },
+      "id": "node/5738752561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818160627",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "compressed_air": "yes",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1328536,
+          28.5964555
+        ]
+      },
+      "id": "node/5818160627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6071158915",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1030161,
+          28.4824092
+        ]
+      },
+      "id": "node/6071158915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6071159160",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0309357,
+          28.472709
+        ]
+      },
+      "id": "node/6071159160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6221536871",
+        "amenity": "fuel",
+        "brand": "HCG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0396576,
+          28.4502666
+        ]
+      },
+      "id": "node/6221536871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6221553474",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0394978,
+          28.4501032
+        ]
+      },
+      "id": "node/6221553474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6221554151",
+        "amenity": "fuel",
+        "brand": "HCG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0466563,
+          28.4562161
+        ]
+      },
+      "id": "node/6221554151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6361838540",
+        "amenity": "fuel",
+        "fuel:cng": "yes",
+        "fuel:diesel": "no",
+        "fuel:gasoline": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9324879,
+          28.3977915
+        ]
+      },
+      "id": "node/6361838540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6361838541",
+        "amenity": "fuel",
+        "fuel:cng": "no",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "name": "HP Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9333171,
+          28.3961627
+        ]
+      },
+      "id": "node/6361838541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6361838542",
+        "amenity": "fuel",
+        "brand": "HP",
+        "name": "Vijay Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9295248,
+          28.3986252
+        ]
+      },
+      "id": "node/6361838542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6361838543",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "fuel:cng": "no",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:lpg": "no",
+        "name": "Indian Oil",
+        "operator": "Indian oil",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9433734,
+          28.4118064
+        ]
+      },
+      "id": "node/6361838543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6361838544",
+        "amenity": "fuel",
+        "brand": "Essar",
+        "fuel:cng": "no",
+        "fuel:diesel": "yes",
+        "fuel:gasoline": "yes",
+        "fuel:lpg": "no",
+        "name": "Essar Petrol Pump",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9413832,
+          28.4053509
+        ]
+      },
+      "id": "node/6361838544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6411571292",
+        "amenity": "fuel",
+        "brand": "Indraprastha Gas",
+        "fuel:cng": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1878285,
+          28.4869358
+        ]
+      },
+      "id": "node/6411571292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6961442929",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1934263,
+          28.5865591
+        ]
+      },
+      "id": "node/6961442929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6961442948",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "Angra HP Centre",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1960832,
+          28.5908405
+        ]
+      },
+      "id": "node/6961442948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6961442954",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1934058,
+          28.5866112
+        ]
+      },
+      "id": "node/6961442954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7187209567",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "compressed_air": "yes",
+        "fuel:cng": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1776294,
+          28.5647065
+        ]
+      },
+      "id": "node/7187209567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8124057196",
+        "addr:postcode": "110021",
+        "addr:street": "Niti Marg",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "brand:wikipedia": "en:Hindustan Petroleum",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "HP COCO Fuel Station",
+        "official_name": "Hindustan Petroleum",
+        "operator": "HPCL",
+        "self_service": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1958058,
+          28.5996071
+        ]
+      },
+      "id": "node/8124057196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932778916",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9232602,
+          28.4226382
+        ]
+      },
+      "id": "node/8932778916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932796218",
+        "amenity": "fuel",
+        "brand": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9303964,
+          28.4241448
+        ]
+      },
+      "id": "node/8932796218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932822873",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "Boxer Fuel Point",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9871368,
+          28.4439551
+        ]
+      },
+      "id": "node/8932822873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932842239",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "name": "Indian Oil",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9994329,
+          28.4495738
+        ]
+      },
+      "id": "node/8932842239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932878683",
+        "amenity": "fuel",
+        "brand": "HCG",
+        "fuel:cng": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0471274,
+          28.4580532
+        ]
+      },
+      "id": "node/8932878683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8932926096",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1167934,
+          28.5407957
+        ]
+      },
+      "id": "node/8932926096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9952802373",
+        "amenity": "charging_station",
+        "covered": "yes",
+        "operator": "ElectriVa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1884585,
+          28.5692695
+        ]
+      },
+      "id": "node/9952802373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9952802374",
+        "amenity": "charging_station",
+        "covered": "yes",
+        "operator": "ElectriVa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1883649,
+          28.5692799
+        ]
+      },
+      "id": "node/9952802374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10593602327",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0392065,
+          28.4188726
+        ]
+      },
+      "id": "node/10593602327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10827129597",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "compressed_air": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0816858,
+          28.4300777
+        ]
+      },
+      "id": "node/10827129597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10842130551",
+        "addr:city": "Gurgaon",
+        "amenity": "fuel",
+        "brand": "Haryana City Gas (HCG)",
+        "check_date": "2025-08-31",
+        "fuel:cng": "yes",
+        "internet_access": "no",
+        "name": "Haryana City Gas (HCG) CNG Pump",
+        "name:en": "Haryana City Gas (HCG) CNG Pump",
+        "operator": "Haryana City Gas Distribution Limited",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:upi": "yes",
+        "self_service": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0750832,
+          28.4521322
+        ]
+      },
+      "id": "node/10842130551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10869059265",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "check_date": "2025-02-23",
+        "compressed_air": "yes",
+        "name": "Hindustan Petroleum",
+        "official_name": "Hindustan Petroleum",
+        "self_service": "no",
+        "short_name": "HP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0945267,
+          28.4705105
+        ]
+      },
+      "id": "node/10869059265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10893280772",
+        "amenity": "fuel",
+        "name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0673522,
+          28.3458208
+        ]
+      },
+      "id": "node/10893280772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10893287129",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "Hindustan Petroleum",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0679979,
+          28.3302173
+        ]
+      },
+      "id": "node/10893287129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10893310116",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0682381,
+          28.3395051
+        ]
+      },
+      "id": "node/10893310116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10893391531",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "Hindustan Petroleum",
+        "official_name": "Hindustan Petroleum",
+        "short_name": "HP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0724086,
+          28.4108664
+        ]
+      },
+      "id": "node/10893391531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10916593203",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "check_date": "2025-02-23",
+        "compressed_air": "yes",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0843698,
+          28.461418
+        ]
+      },
+      "id": "node/10916593203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11281140568",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0672026,
+          28.3047341
+        ]
+      },
+      "id": "node/11281140568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11313878861",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "check_date": "2025-02-23",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0549446,
+          28.466452
+        ]
+      },
+      "id": "node/11313878861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11633746977",
+        "amenity": "fuel",
+        "brand": "Nayara",
+        "brand:wikidata": "Q5399377",
+        "name": "Nayara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0753233,
+          28.4221377
+        ]
+      },
+      "id": "node/11633746977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11665489616",
+        "amenity": "fuel",
+        "brand": "Bharat Petroleum",
+        "brand:wikidata": "Q854826",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0006292,
+          28.4423897
+        ]
+      },
+      "id": "node/11665489616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11665696366",
+        "amenity": "fuel",
+        "name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0335669,
+          28.4276658
+        ]
+      },
+      "id": "node/11665696366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11771960493",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.195939,
+          28.5544887
+        ]
+      },
+      "id": "node/11771960493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11834307466",
+        "amenity": "fuel",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0665107,
+          28.408806
+        ]
+      },
+      "id": "node/11834307466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11873060520",
+        "amenity": "fuel",
+        "brand": "Hindustan Petrolium",
+        "name": "Rama Petrol Pump"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0008064,
+          28.4028058
+        ]
+      },
+      "id": "node/11873060520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12002350765",
+        "amenity": "fuel",
+        "brand": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.196259,
+          28.4072638
+        ]
+      },
+      "id": "node/12002350765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12039057571",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0046128,
+          28.5567647
+        ]
+      },
+      "id": "node/12039057571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12192527479",
+        "amenity": "charging_station",
+        "brand": "Statiq",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1860742,
+          28.5133039
+        ]
+      },
+      "id": "node/12192527479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12278110520",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.17549,
+          28.5915129
+        ]
+      },
+      "id": "node/12278110520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12647193426",
+        "amenity": "charging_station",
+        "brand": "Yuma",
+        "charging_station:battery_swapping": "yes",
+        "indoor": "yes",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0429824,
+          28.5910595
+        ]
+      },
+      "id": "node/12647193426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12972970667",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1883978,
+          28.5793023
+        ]
+      },
+      "id": "node/12972970667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12973875562",
+        "access": "no",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0813217,
+          28.5613597
+        ]
+      },
+      "id": "node/12973875562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13243279486",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "level": "0",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0956185,
+          28.4600091
+        ]
+      },
+      "id": "node/13243279486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13245932038",
+        "amenity": "charging_station",
+        "capacity": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0912527,
+          28.4951713
+        ]
+      },
+      "id": "node/13245932038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13246707689",
+        "amenity": "charging_station",
+        "brand": "Mercedes-Benz",
+        "brand:wikidata": "Q36008",
+        "capacity": "4",
+        "operator": "Mercedes-Benz",
+        "operator:wikidata": "Q36008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0956771,
+          28.4601725
+        ]
+      },
+      "id": "node/13246707689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13300936973",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0880137,
+          28.4952305
+        ]
+      },
+      "id": "node/13300936973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13542135043",
+        "amenity": "fuel",
+        "brand": "Indraprastha gas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1972612,
+          28.5699766
+        ]
+      },
+      "id": "node/13542135043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13688377301",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:en": "Tesla Supercharger",
+        "brand:website": "https://www.tesla.com/supercharger",
+        "brand:wikidata": "Q17089620",
+        "fee": "yes",
+        "frequency": "0",
+        "motorcar": "designated",
+        "name": "Tesla Supercharger",
+        "network:en": "Supercharger",
+        "network:website": "https://www.tesla.com/supercharger",
+        "network:wikidata": "Q17089620",
+        "opening_hours": "24/7",
+        "operator": "Tesla",
+        "operator:en": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:tesla": "456659",
+        "website": "https://www.tesla.com/findus/location/supercharger/456659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1218893,
+          28.5515313
+        ]
+      },
+      "id": "node/13688377301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13688377501",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:en": "Tesla Supercharger",
+        "brand:website": "https://www.tesla.com/supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "4",
+        "fee": "yes",
+        "frequency": "0",
+        "motorcar": "designated",
+        "name": "Tesla Supercharger",
+        "network:en": "Supercharger",
+        "network:website": "https://www.tesla.com/supercharger",
+        "network:wikidata": "Q17089620",
+        "opening_hours": "24/7",
+        "operator": "Tesla",
+        "operator:en": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:tesla": "463574",
+        "website": "https://www.tesla.com/findus/location/supercharger/463574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0368971,
+          28.42597
+        ]
+      },
+      "id": "node/13688377501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13688398004",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand:en": "Tesla Supercharger",
+        "brand:website": "https://www.tesla.com/supercharger",
+        "brand:wikidata": "Q17089620",
+        "fee": "yes",
+        "frequency": "0",
+        "motorcar": "designated",
+        "network:en": "Supercharger",
+        "network:website": "https://www.tesla.com/supercharger",
+        "network:wikidata": "Q17089620",
+        "opening_hours": "24/7",
+        "operator:en": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:tesla": "456659",
+        "website": "https://www.tesla.com/findus/location/supercharger/456659"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.121598,
+          28.5515415
+        ]
+      },
+      "id": "node/13688398004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13688398203",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand:en": "Tesla Supercharger",
+        "brand:website": "https://www.tesla.com/supercharger",
+        "brand:wikidata": "Q17089620",
+        "fee": "yes",
+        "frequency": "0",
+        "motorcar": "designated",
+        "network:en": "Supercharger",
+        "network:website": "https://www.tesla.com/supercharger",
+        "network:wikidata": "Q17089620",
+        "opening_hours": "24/7",
+        "operator:en": "Tesla",
+        "operator:wikidata": "Q478214",
+        "ref:tesla": "463574",
+        "website": "https://www.tesla.com/findus/location/supercharger/463574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0367783,
+          28.4261625
+        ]
+      },
+      "id": "node/13688398203"
+    }
+  ]
+}

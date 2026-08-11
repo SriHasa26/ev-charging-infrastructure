@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-04-13T19:08:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2591733397",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.693238,
+          24.5974899
+        ]
+      },
+      "id": "node/2591733397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2595261662",
+        "amenity": "fuel",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6278476,
+          24.7219947
+        ]
+      },
+      "id": "node/2595261662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2595261673",
+        "amenity": "fuel",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.689711,
+          24.5906941
+        ]
+      },
+      "id": "node/2595261673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3776199889",
+        "amenity": "fuel",
+        "brand": "Nayara",
+        "brand:wikidata": "Q5399377",
+        "name": "Nayara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6900512,
+          24.6064554
+        ]
+      },
+      "id": "node/3776199889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3902104973",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.5036101,
+          24.7791684
+        ]
+      },
+      "id": "node/3902104973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4535330089",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "IndianOil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6365483,
+          24.6943549
+        ]
+      },
+      "id": "node/4535330089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4702938089",
+        "amenity": "fuel",
+        "name:en": "Bharat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6937135,
+          24.5653033
+        ]
+      },
+      "id": "node/4702938089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6904308649",
+        "amenity": "fuel",
+        "compressed_air": "yes",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7206758,
+          24.5817936
+        ]
+      },
+      "id": "node/6904308649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7017910395",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6920418,
+          24.590622
+        ]
+      },
+      "id": "node/7017910395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244850267",
+        "amenity": "fuel",
+        "name": "India Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6606101,
+          24.6676105
+        ]
+      },
+      "id": "node/7244850267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244850849",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7158688,
+          24.6390064
+        ]
+      },
+      "id": "node/7244850849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244850957",
+        "amenity": "fuel",
+        "brand": "Indian Oil",
+        "brand:wikidata": "Q1289348",
+        "brand:wikipedia": "en:Indian Oil Corporation",
+        "name": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6366055,
+          24.6938829
+        ]
+      },
+      "id": "node/7244850957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244856025",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6985864,
+          24.6072566
+        ]
+      },
+      "id": "node/7244856025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244862319",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6236553,
+          24.7513164
+        ]
+      },
+      "id": "node/7244862319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7244866408",
+        "amenity": "fuel",
+        "name": "Bahrat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6285437,
+          24.7224025
+        ]
+      },
+      "id": "node/7244866408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8574120779",
+        "amenity": "fuel",
+        "name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7696582,
+          24.5946681
+        ]
+      },
+      "id": "node/8574120779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9237294501",
+        "amenity": "fuel",
+        "name": "Reliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8396317,
+          24.618218
+        ]
+      },
+      "id": "node/9237294501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10878771655",
+        "amenity": "fuel",
+        "brand": "Indian Oil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6300465,
+          24.7702815
+        ]
+      },
+      "id": "node/10878771655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10880997845",
+        "amenity": "fuel",
+        "brand": "Hindustan Petroleum",
+        "brand:wikidata": "Q1619375",
+        "name": "HP Petrol Pump",
+        "official_name": "Hindustan Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6946725,
+          24.5904019
+        ]
+      },
+      "id": "node/10880997845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10881007779",
+        "amenity": "fuel",
+        "brand": "HP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6963798,
+          24.5815598
+        ]
+      },
+      "id": "node/10881007779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12424701811",
+        "amenity": "fuel",
+        "name": "Bharat Petroleum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6998616,
+          24.5748236
+        ]
+      },
+      "id": "node/12424701811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13121232395",
+        "addr:city": "udaipur",
+        "addr:district": "udaipur",
+        "addr:housenumber": "1475",
+        "addr:postcode": "313001",
+        "addr:street": "new bhupalpura",
+        "amenity": "fuel",
+        "brand": "indian oil",
+        "fuel:diesel": "yes",
+        "fuel:petrol": "yes",
+        "name": "sai kripa fuels petrol pump",
+        "opening_hours": "Mo-Su 6:00-22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7042789,
+          24.5914804
+        ]
+      },
+      "id": "node/13121232395"
+    }
+  ]
+}
